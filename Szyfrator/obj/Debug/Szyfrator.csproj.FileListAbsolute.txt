@@ -1,0 +1,10 @@
+C:\Users\Hubi\source\repos\Szyfrator\Szyfrator\bin\Debug\Szyfrator.exe.config
+C:\Users\Hubi\source\repos\Szyfrator\Szyfrator\bin\Debug\Szyfrator.exe
+C:\Users\Hubi\source\repos\Szyfrator\Szyfrator\bin\Debug\Szyfrator.pdb
+C:\Users\Hubi\source\repos\Szyfrator\Szyfrator\obj\Debug\Szyfrator.csprojResolveAssemblyReference.cache
+C:\Users\Hubi\source\repos\Szyfrator\Szyfrator\obj\Debug\Szyfrator.Form1.resources
+C:\Users\Hubi\source\repos\Szyfrator\Szyfrator\obj\Debug\Szyfrator.Properties.Resources.resources
+C:\Users\Hubi\source\repos\Szyfrator\Szyfrator\obj\Debug\Szyfrator.csproj.GenerateResource.Cache
+C:\Users\Hubi\source\repos\Szyfrator\Szyfrator\obj\Debug\Szyfrator.csproj.CoreCompileInputs.cache
+C:\Users\Hubi\source\repos\Szyfrator\Szyfrator\obj\Debug\Szyfrator.exe
+C:\Users\Hubi\source\repos\Szyfrator\Szyfrator\obj\Debug\Szyfrator.pdb
